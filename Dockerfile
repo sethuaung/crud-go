@@ -1,3 +1,3 @@
 FROM golang:onbuild
-MAINTAINER thanhngvpt
+MAINTAINER mosquito
 EXPOSE 3333
